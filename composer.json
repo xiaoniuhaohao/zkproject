@@ -9,5 +9,15 @@
             "email": "2493471867@qq.com"
         }
     ],
-    "require": {}
+    "require": {
+         "php": ">=7.1.0",
+        "topthink/framework": "^6.0.0",
+        "topthink/think-orm": "^2.0",
+        "topthink/think-multi-app": "^1.0",
+        "topthink/think-view": "^1.0",
+        "topthink/think-captcha": "^3.0",
+        "topthink/think-migration": "^3.0",
+        "fzaninotto/faker": "^1.9",
+        "php-amqplib/php-amqplib": "^2.11"
+    }
 }
