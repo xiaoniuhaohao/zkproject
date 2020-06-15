@@ -1,0 +1,13 @@
+{
+    "name": "kisshh/zkproject",
+    "description": "a simple project",
+    "type": "project",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "zk",
+            "email": "2493471867@qq.com"
+        }
+    ],
+    "require": {}
+}
